@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">organic</string>
+    <string name="masuk_akun">Masuk Akun</string>
+    <string name="hallo_login">Halo, Selamat datang di Organic</string>
+    <string name="login_register"><u>Register</u></string>
+    <string name="login_lupa_password"><u>Lupa password</u></string>
+    <string name="register_login"><u>Login</u></string>
+</resources>
