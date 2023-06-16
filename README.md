@@ -17,8 +17,8 @@ This Repository is used by Mobile Development path cohort to developing our mobi
 * **Real-Time Object Detection Camera**: The Real-Time Object Detection Camera feature allows users to utilize their device's camera to scan vegetables in real-time. By simply pointing the camera towards a vegetable, the application utilizes advanced image recognition algorithms to identify and classify the scanned vegetable accurately.
 
 <h3>Prerequisites</h3>
-* Android Studio
 
+* Android Studio
 * JDK and JRE
 
 <h3>Apps</h3>
