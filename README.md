@@ -18,6 +18,7 @@ This Repository is used by Mobile Development path cohort to developing our mobi
 
 <h3>Prerequisites</h3>
 * Android Studio
+
 * JDK and JRE
 
 <h3>Apps</h3>
