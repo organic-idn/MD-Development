@@ -15,4 +15,7 @@ This Repository is used by Mobile Development path cohort to developing our mobi
 * **Home**: The Home feature serves as the central hub of the application, providing users with a personalized and intuitive start page once they have logged in. It offers a comprehensive overview of relevant information, such as notifications, updates, and access to different sections or functionalities within the app.
 
 * **Real-Time Object Detection Camera**: The Real-Time Object Detection Camera feature allows users to utilize their device's camera to scan vegetables in real-time. By simply pointing the camera towards a vegetable, the application utilizes advanced image recognition algorithms to identify and classify the scanned vegetable accurately.
-
+<br>
+<h3>Prerequisites</h3>
+* Android Studio
+* JDK and JRE
