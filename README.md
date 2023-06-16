@@ -20,3 +20,6 @@ This Repository is used by Mobile Development path cohort to developing our mobi
 
 * Android Studio
 * JDK and JRE
+<br>
+<h3>Apps</h3>
+<a href="[https://docs.edgeimpulse.com/docs/edge-impulse-studio/learning-blocks/object-detection/mobilenetv2-ssd-fpn](https://github.com/organic-idn/MD-Development/blob/main/organic.apk)">Organic Apps</a>
